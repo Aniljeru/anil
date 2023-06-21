@@ -1,2 +1,2 @@
 this is new file again changes to check git status short command - git statas -s or git status -short
-after staged changed this file again in this line
+after staged, changed this file again in this line
