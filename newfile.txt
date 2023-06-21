@@ -1,0 +1,1 @@
+new file is edited via cmd command code - code newfile.txt
